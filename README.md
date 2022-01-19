@@ -1,7 +1,6 @@
-- 👋 Hello there, I’m Alisha
-- 👀 I’m interested in all things data!
+- 👋 Hey everybody, I’m Alisha
+- 👀 I’m interested in all things data! 
 - 🌱 I’m currently learning everything I can :)
-
 
 
 <!---
